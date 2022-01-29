@@ -45,7 +45,7 @@ public class Main {
         }
     }
     public static void main(String[] args) {
-	    // Exercise 1: draw triangle
+        // Exercise 1: draw triangle
         drawTriangle(10);
         //Exercise 2 + 3:returns the maximum value of an int array
         int[] numbers = new int[]{9, 2, 15, 2, 22, 10, 6};
