@@ -47,7 +47,7 @@ public class Shock {
            mulitplyBy2(arr);//4,6,6,8
            int a=6;
            int b=7;
-           swap(a,b);//a=6,b=7
+           swap(a,b);//a=6,b=7,注意 ： A,B和a,b
        }
     static class Foo {
         public int x;
